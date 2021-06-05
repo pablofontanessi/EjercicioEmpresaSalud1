@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioRestSalud", "EjercicioRestSalud\EjercicioRestSalud.csproj", "{5E301B6F-2844-42BE-8F4D-4D9E82A7038C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEBAPIEmpresaSalud", "WEBAPIEmpresaSalud\WEBAPIEmpresaSalud.csproj", "{513542B0-FB87-43F1-BD27-8613E859EE5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E301B6F-2844-42BE-8F4D-4D9E82A7038C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E301B6F-2844-42BE-8F4D-4D9E82A7038C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E301B6F-2844-42BE-8F4D-4D9E82A7038C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E301B6F-2844-42BE-8F4D-4D9E82A7038C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513542B0-FB87-43F1-BD27-8613E859EE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513542B0-FB87-43F1-BD27-8613E859EE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513542B0-FB87-43F1-BD27-8613E859EE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513542B0-FB87-43F1-BD27-8613E859EE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F392F8-C132-4634-827E-4A7A4C7A0986}
+	EndGlobalSection
+EndGlobal
