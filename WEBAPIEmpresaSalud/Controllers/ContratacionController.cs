@@ -25,6 +25,6 @@ namespace WEBAPIEmpresaSalud.Controllers
             return Ok(RespuestaServicio.instanciaRespuesta.Detalle);
         }
 
-
+        ////////
     }
 }
