@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\EjercicioRestSalud\\EjercicioRestSalud.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\EjercicioRestSalud\\EjercicioRestSalud.csproj",
+        "projectName": "EjercicioRestSalud",
+        "projectPath": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\EjercicioRestSalud\\EjercicioRestSalud.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\WEBAPIEmpresaSalud\\WEBAPIEmpresaSalud.csproj": {
+                "projectPath": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\WEBAPIEmpresaSalud\\WEBAPIEmpresaSalud.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\WEBAPIEmpresaSalud\\WEBAPIEmpresaSalud.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\WEBAPIEmpresaSalud\\WEBAPIEmpresaSalud.csproj",
+        "projectName": "WEBAPIEmpresaSalud",
+        "projectPath": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\WEBAPIEmpresaSalud\\WEBAPIEmpresaSalud.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\EjercicioRestSalud\\EjercicioRestSalud.csproj": {
+                "projectPath": "C:\\Users\\pablo\\OneDrive\\Documents\\Prog 2 2021\\EjercicioEmpresaSalud1\\EjercicioRestSalud\\EjercicioRestSalud.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

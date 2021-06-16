@@ -25,6 +25,16 @@ namespace WEBAPIEmpresaSalud.Controllers
             return Ok(RespuestaServicio.instanciaRespuesta.Detalle);
         }
 
+        public IHttpActionResult Post(int id)
+        {
+            if (id == 0)
+            {
+                return Ok();
+            }
+            else
+                return Content(HttpStatusCode.BadRequest, "") ;
+        }
+
         ////////
     }
 }
